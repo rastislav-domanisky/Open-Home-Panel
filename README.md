@@ -1,4 +1,4 @@
-# ohp
+# Open Home Panel
 
 ## Project setup
 ```
