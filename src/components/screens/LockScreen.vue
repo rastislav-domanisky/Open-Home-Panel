@@ -35,7 +35,7 @@ import axios from "axios";
 export default {
   data() {
     return {
-        pin: "1234",
+        pin: "",
         lock_img: "",
         unlock_img: "",
         isLocked: true,
