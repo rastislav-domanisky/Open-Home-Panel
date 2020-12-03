@@ -179,4 +179,11 @@ export default {
   color: #FFFFFF;
 }
 
+.c {
+  color: #FFF;
+  font-weight: 200;
+  font-size: 0.7em;
+  display: block;
+}
+
 </style>
