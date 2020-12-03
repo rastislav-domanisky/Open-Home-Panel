@@ -12,15 +12,11 @@ Smart home controller for Raspberry Pi
 ## Download Release
 //add release
 
-<hr>
-
 ## Manual install
 
 #### Install server
 
 [ohp-server](https://github.com/rastislav-domanisky/ohp-server)
-
-<hr>
 
 ## Custom build
 
