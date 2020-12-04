@@ -31,16 +31,8 @@ export default {
     add: function () {
       this.$router.push({ path: "/add_switch" });
     },
-  },
-  data() {
-    return {
-      isLoaded: false,
-      isError: false,
-      switches: [],
-    };
-  },
-  created() {
-    axios
+    loadSwitches() {
+      axios
       .get("http://"+this.serverIp+":3000/get_switches", {
         headers: {
           "API-KEY": "openhomepanel123",
@@ -59,6 +51,20 @@ export default {
           this.isError = true;
         }
       );
+    }
+  },
+  data() {
+    return {
+      isLoaded: false,
+      isError: false,
+      switches: [],
+    };
+  },
+  mounted() {
+    this.emitter.on('reload-switches', this.loadSwitches());
+  },
+  created() {
+    this.loadSwitches();
   },
 };
 </script>

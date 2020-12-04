@@ -39,7 +39,7 @@ export default {
         )
         .then(
           () => {
-            this.$router.go();
+            this.emitter.emit("reload-switches");
           },
           () => {
             console.log("Cannot delete switch");
