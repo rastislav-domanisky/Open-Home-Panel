@@ -32,6 +32,7 @@ export default {
       this.$router.push({ path: "/add_switch" });
     },
     loadSwitches() {
+      this.isLoaded = false;
       axios
       .get("http://"+this.serverIp+":3000/get_switches", {
         headers: {
@@ -61,7 +62,9 @@ export default {
     };
   },
   mounted() {
-    this.emitter.on('reload-switches', this.loadSwitches());
+    this.emitter.on("reload-switches", () => {
+      this.loadSwitches();
+    });
   },
   created() {
     this.loadSwitches();
