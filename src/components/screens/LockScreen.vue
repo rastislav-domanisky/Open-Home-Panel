@@ -21,7 +21,7 @@
           </div>
           <div class="k-borad-row">
               <div class="btn" v-on:click="inputClear()">C</div>
-              <div class="btn" v-on:click="inputFun('0')">8</div>
+              <div class="btn" v-on:click="inputFun('0')">0</div>
               <div class="btn btn-enter" v-on:click="inputFun('e')" :class="{unlocked: !isLocked, locked: isLocked}">
                   Enter
               </div>
