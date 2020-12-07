@@ -1,6 +1,13 @@
 # Open Home Panel
 
 Smart home controller for Raspberry Pi
+
+![OHP-photo1](https://github.com/rastislav-domanisky/Open-Home-Panel/releases/download/v1/ohp_img1.JPG)
+
+![OHP-photo2](https://github.com/rastislav-domanisky/Open-Home-Panel/releases/download/v1/ohp_img2.JPG)
+
+![OHP-photo3](https://github.com/rastislav-domanisky/Open-Home-Panel/releases/download/v1/ohp_img3.JPG)
+
 ## Dependencies
 
 * Raspberry Pi OS Lite
