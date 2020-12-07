@@ -2,18 +2,19 @@
 
 Smart home controller for Raspberry Pi
 
-![OHP-photo1](https://github.com/rastislav-domanisky/Open-Home-Panel/releases/download/v1/ohp_img1.JPG)
+<img src="https://github.com/rastislav-domanisky/Open-Home-Panel/releases/download/v1/ohp_img1.JPG" alt="Image1">
 
-![OHP-photo2](https://github.com/rastislav-domanisky/Open-Home-Panel/releases/download/v1/ohp_img2.JPG)
+<img src="https://github.com/rastislav-domanisky/Open-Home-Panel/releases/download/v1/ohp_img2.JPG" alt="Image2">
 
-![OHP-photo3](https://github.com/rastislav-domanisky/Open-Home-Panel/releases/download/v1/ohp_img3.JPG)
+<img src="https://github.com/rastislav-domanisky/Open-Home-Panel/releases/download/v1/ohp_img3.JPG" alt="Image3">
+
 
 ## Dependencies
 
 * Raspberry Pi OS Lite
 * Internet connection
 * [Raspberyy Pi 7 inch touchscreen](https://www.raspberrypi.org/products/raspberry-pi-touch-display/?resellerType=home)
-* Open Home Panel sever
+* Open Home Panel severhttps://github.com/rastislav-domanisky/Open-Home-Panel/releases/download/v1/ohp_img2.JPG
 
 ## Download Release
 [Download latest release](https://github.com/rastislav-domanisky/Open-Home-Panel/releases/tag/v1)
