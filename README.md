@@ -1,12 +1,11 @@
 # Open Home Panel
 
 Smart home controller for Raspberry Pi
-
 ## Dependencies
 
 * Raspberry Pi OS Lite
 * Internet connection
-* Raspberyy Pi 7 inch touchscreen
+* [Raspberyy Pi 7 inch touchscreen](https://www.raspberrypi.org/products/raspberry-pi-touch-display/?resellerType=home)
 * Open Home Panel sever
 
 ## Download Release
