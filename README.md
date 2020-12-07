@@ -2,11 +2,11 @@
 
 Smart home controller for Raspberry Pi
 
-<img src="https://github.com/rastislav-domanisky/Open-Home-Panel/releases/download/v1/ohp_img1.JPG" alt="Image1">
+<img src="https://github.com/rastislav-domanisky/Open-Home-Panel/blob/master/ohp_img1.JPG" alt="Image1">
 
-<img src="https://github.com/rastislav-domanisky/Open-Home-Panel/releases/download/v1/ohp_img2.JPG" alt="Image2">
+<img src="https://github.com/rastislav-domanisky/Open-Home-Panel/blob/master/ohp_img2.JPG" alt="Image2">
 
-<img src="https://github.com/rastislav-domanisky/Open-Home-Panel/releases/download/v1/ohp_img3.JPG" alt="Image3">
+<img src="https://github.com/rastislav-domanisky/Open-Home-Panel/blob/master/ohp_img3.JPG" alt="Image3">
 
 
 ## Dependencies
