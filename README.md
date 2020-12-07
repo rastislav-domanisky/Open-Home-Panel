@@ -26,3 +26,6 @@ check [ohp-server documentation](https://github.com/rastislav-domanisky/ohp-serv
 
 ##### Temperature sensor
 [Documentation](https://pypi.org/project/w1thermsensor/)
+
+## Custom build
+[Manual](https://github.com/rastislav-domanisky/Open-Home-Panel/blob/master/build_manual.md)
