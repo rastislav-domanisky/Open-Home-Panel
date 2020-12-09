@@ -14,10 +14,13 @@ Smart home controller for Raspberry Pi
 * Raspberry Pi OS Lite
 * Internet connection
 * [Raspberyy Pi 7 inch touchscreen](https://www.raspberrypi.org/products/raspberry-pi-touch-display/?resellerType=home)
-* Open Home Panel severhttps://github.com/rastislav-domanisky/Open-Home-Panel/releases/download/v1/ohp_img2.JPG
+* [Open Home Panel sever](https://github.com/rastislav-domanisky/Open-Home-Panel/releases/download/v1/ohp_img2.JPG)
 
 ## Download Release
 [Download latest release](https://github.com/rastislav-domanisky/Open-Home-Panel/releases/tag/v1)
+
+### Use mobile app
+[OHP-Controller](https://github.com/rastislav-domanisky/OHP-Controller)
 
 ##### Make bootable SD-CARD
 https://www.raspberrypi.org/software/
