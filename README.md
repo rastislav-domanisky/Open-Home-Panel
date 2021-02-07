@@ -3,7 +3,7 @@
 Smart home controller for Raspberry Pi
 
 
-![Fullstack React](https://github.com/rastislav-domanisky/Open-Home-Panel/blob/master/ohp_img1.JPG) <br>
+![](https://github.com/rastislav-domanisky/Open-Home-Panel/blob/master/ohp_img1.JPG)
 
 
 
