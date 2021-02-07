@@ -3,7 +3,7 @@
 Smart home controller for Raspberry Pi
 
 <img src="https://github.com/rastislav-domanisky/Open-Home-Panel/blob/master/ohp_img1.JPG" alt="Image1" />
-![Semantic description of image](https://github.com/rastislav-domanisky/Open-Home-Panel/blob/master/ohp_img1.JPG "Image Title")
+![]("https://github.com/rastislav-domanisky/Open-Home-Panel/blob/master/ohp_img1.JPG")
 
 <img src="https://github.com/rastislav-domanisky/Open-Home-Panel/blob/master/ohp_img2.JPG" alt="Image2" />
 
