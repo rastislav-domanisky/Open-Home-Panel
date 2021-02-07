@@ -6,13 +6,7 @@ Smart home controller for Raspberry Pi
 ![Fullstack React](https://github.com/rastislav-domanisky/Open-Home-Panel/blob/master/ohp_img1.JPG) <br>
 
 
-<img src="https://github.com/rastislav-domanisky/Open-Home-Panel/blob/master/ohp_img1.JPG" alt="Image1" /> <br>
 
-
-
-<img src="https://github.com/rastislav-domanisky/Open-Home-Panel/blob/master/ohp_img2.JPG" alt="Image2" /> <br>
-
-<img src="https://github.com/rastislav-domanisky/Open-Home-Panel/blob/master/ohp_img3.JPG" alt="Image3" /> <br>
 
 
 ## Dependencies
