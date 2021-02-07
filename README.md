@@ -3,7 +3,7 @@
 Smart home controller for Raspberry Pi
 
 <img src="https://github.com/rastislav-domanisky/Open-Home-Panel/blob/master/ohp_img1.JPG" alt="Image1" />
-![Test Image](https://github.com/rastislav-domanisky/Open-Home-Panel/blob/master/ohp_img1.JPG)
+![Test Image](github.com/rastislav-domanisky/Open-Home-Panel/blob/master/ohp_img1.JPG)
 
 <img src="https://github.com/rastislav-domanisky/Open-Home-Panel/blob/master/ohp_img2.JPG" alt="Image2" />
 
